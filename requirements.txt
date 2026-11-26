@@ -1,0 +1,2 @@
+# Required only when connecting the app to Microsoft SQL Server.
+pyodbc>=5.1,<6
